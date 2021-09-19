@@ -1,10 +1,10 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+    titleWeb: "Pirenna",
     introTitle: 'Âyyyyyy',
     introDesc: 'Ở đây có quà trung thu nè :)))`,
     btnIntro: 'Ấn vào đây', 
-    btnYes: 'Nhận',
-    btnNo: 'Hên xui',
+    btnYes: 'Hên',
+    btnNo: 'Xui',
     question: 'Có thực sự muốn nhận ko đấy...Yes or No',
     btnReply: 'Gửi',
     reply: 'Yes',
